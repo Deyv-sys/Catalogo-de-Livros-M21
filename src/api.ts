@@ -1,0 +1,1 @@
+export const API_URL = "https://crudcrud.com/api/83877f0271124c8389749ac87e322fc2/livros";
