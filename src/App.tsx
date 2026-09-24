@@ -10,8 +10,8 @@ function App() {
     <main className="app-shell">
       <header className="hero">
         <div>
-          <span className="eyebrow">Catálogo pessoal</span>
-          <h1>Livros que<br /><em>ficam</em> com você.</h1>
+          <span className="eyebrow">Catálogo Social</span>
+          <h1>Livros que<br /><em>ficam</em> na sua mente.</h1>
           <p>Organize suas próximas descobertas, leituras em andamento e histórias já vividas.</p>
         </div>
         <div className="hero-mark" aria-hidden="true">✦</div>
